@@ -1,4 +1,4 @@
-Here you will find supplementary data from the following paper:
+Supplementary data from the following paper:
 
 "Morphological Adaptation and Plasticity in Insects: A Systematic Review of Genetic Mechanisms and Environmental Factors"
 
